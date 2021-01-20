@@ -7,7 +7,7 @@ Creating a Pull Request
 1. Fork this repository from `master` and create a branch for new code.
 2. If applicable, add the proper tests for the new code.
 3. If applicable, update the [documentation](https://github.com/svalinn/DAGMC-viz/blob/master/README.md).
-4. Issue a Pull Request using the pull request template.
+4. Issue a Pull Request.
 
 Reporting an Issue
 ------------------
@@ -17,7 +17,6 @@ Reporting an Issue
 
 Important Resources
 -------------------
-* [Pull Request Template](https://github.com/svalinn/DAGMC-viz/blob/master/PULL_REQUEST_TEMPLATE.md)
 * [Bug Report Template](https://github.com/svalinn/DAGMC-viz/blob/master/.github/ISSUE_TEMPLATE/bug-report.md)
 * [Feature Request Template](https://github.com/svalinn/DAGMC-viz/blob/master/.github/ISSUE_TEMPLATE/feature-request.md)
 
